@@ -1,0 +1,4 @@
+Docker(containers) , 
+AWS/Heroku/railway , 
+NGINX(reverse proxy, load balancer , HTTP caching) , 
+ORM(object Relational Mapping, for nodejs TypeORM or Sequelize) 
